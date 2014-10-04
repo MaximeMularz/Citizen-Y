@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\internal_impl-19.0.1-2e26bc87a0850af42853d5e4cf8cee1933f3bddf.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\19.0.1\libs\internal_impl-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e1323875349a4e9b64fe8692f137f92b22dddcef"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\android-query.0.25.10-36ead51cc5c00901c56ef89907cee1b7e5729d12.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\libs\android-query.0.25.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\classes-15329ebe13b0b4659c6193e262e0b5a68e922cd8.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7f6ef78b879e271f8645b2f2c2702390305f0fa2"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\classes-9de0e83a9a11120f3096bf90ecadd9c03b6e5fae.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\ShowCaseLibrary\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c6aaad1700f544613035527a503c1c0d20be9e90"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\classes-6e54bb0638e0a450dddd6d1be290699e1a77372d.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\support-v4-19.0.1-83c385111b5881d9345432ebf2b215bcd10a7010.jar"
+        jar="C:\Program Files\Android\android-studio1\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\classes-c3db9331a02cd79e91546a669b23c1b7c16d3efb.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\CastVideos-android-master\CastCompanionLibrary\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="76b86d4ddf9542097b213c1e5beef2d7bae10757"/>
+    <item
+        dex="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\pre-dexed\debug\classes-f217f020dd52842c8ed0c4c7468356d4c03e621a.jar"
+        jar="C:\Users\vincent\googleCast\CastVideos-android-master\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.3.23\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4"/>
+
+</pre-dex-items>
